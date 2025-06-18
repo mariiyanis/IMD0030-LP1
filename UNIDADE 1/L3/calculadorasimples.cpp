@@ -1,6 +1,3 @@
-/*Desenvolva um algoritmo de calculadora. Para cada operação matemática crie
-uma função correspondente. As funções são: soma, subtração, multiplicação,
-divisão, potência e radiciação.*/
 #include <iostream>
 #include <cmath>
 
